@@ -12,9 +12,10 @@
 
 ### What Was Used
 
-* NodeJS
-* JavaScript
-* NPM mysql
+* http
+* Express.js
+* Routing
+* HTTP POST Requests
 
 ### Coder
 
