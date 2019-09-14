@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finding App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalamath/FriendFinder.git"
+  },
+  "author": "Kalamath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalamath/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Kalamath/FriendFinder#readme"
+}
