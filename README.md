@@ -6,9 +6,9 @@
 2. Run `npm install`
 3. At command prompt run `node server.js`
 
-### GIF - Bamazon Customer
+### GIF - Friend Finder
 
-![Bamazon](https://github.com/Kalamath/FriendFinder/blob/master/.gif)
+![friendfinder](https://github.com/Kalamath/FriendFinder/blob/master/.gif)
 
 ### What Was Used
 
@@ -20,4 +20,4 @@
 
 * Martell Harding
 
-![greatDeals](https://github.com/Kalamath/FriendFinder/blob/master/greatdeals.gif)
+![myfriend](https://github.com/Kalamath/FriendFinder/blob/master/friends.gif)
